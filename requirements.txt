@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+pillow
+scikit-image
+kagglehub
+argparse
+tqdm
